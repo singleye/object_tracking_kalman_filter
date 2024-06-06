@@ -1,0 +1,6 @@
+onnx==1.14.1
+opencv-python==4.8.0.76
+torch==2.0.1
+ultralytics==8.0.239
+ultralytics-thop==0.2.7
+ultralyticsplus==0.1.0
